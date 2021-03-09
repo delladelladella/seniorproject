@@ -4,7 +4,7 @@
 
 Git clone this repo onto your computer in the destination of your choice, then go into the web-app folder:
 ```
-HoreaPorutiu$ git clone https://github.com/IBM/evote
+HoreaPorutiu$ git clone https://github.com/delladelladella/seniorproject
 ```
 
 ## Step 2. Create IBM Cloud services
